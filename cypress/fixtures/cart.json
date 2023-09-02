@@ -1,0 +1,37 @@
+{
+    "emptyBasket": {
+        "ENG": {
+            "language": "ENG",
+            "text": "Basket is empty"
+        },
+        "ARM": {
+            "language": "ARM",
+            "text": "Քո զամբյուղում դեռ ապրանքներ չկան"
+        },
+        "RUS": {
+            "language": "RUS",
+            "text": "В корзине пока ничего нет"
+        }
+    },
+    "cartManipulation": {
+        "language": "ENG",
+        "product": "Yuval Noah Harari",
+        "price1": "10600 AMD",
+        "price2": "13200 AMD",
+        "price3": "58800 AMD",
+        "addProductInstance": {
+            "description": "Комплект 3 кн. (Sapiens, Нomo Deus,21 урок для XXI века) (КБС), авт. Харари Ю.Н.",
+            "author": "Yuval Noah Harari"
+        },
+        "removeProduct": {
+            "description": "Money",
+            "author": "Yuval Noah Harari"
+        },
+        "price4": "56200 AMD",
+        "removeProductInstance": {
+            "description": "Комплект 3 кн. (Sapiens, Нomo Deus,21 урок для XXI века) (КБС), авт. Харари Ю.Н.",
+            "author": "Yuval Noah Harari"
+        },
+        "price5": "33400 AMD"
+    }
+}

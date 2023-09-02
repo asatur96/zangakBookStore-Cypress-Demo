@@ -1,0 +1,66 @@
+{
+    "headerDropDown": {
+        "ENG": {
+            "language": "ENG",
+            "login": "Log in",
+            "signin": "Sign in"
+        },
+        "ARM": {
+            "language": "ARM",
+            "login": "Մուտք",
+            "signin": "Գրանցվել"
+        },
+        "RUS": {
+            "language": "RUS",
+            "login": "Вход",
+            "signin": "Регистрация"
+        }
+    },
+    "pageElements": {
+        "ENG": {
+            "language": "ENG",
+            "title": "Login to your account",
+            "or": "or",
+            "email": "E-mail",
+            "password": "Password",
+            "forgotPassword": "Forgot your password?",
+            "rememberMe": "Remember me",
+            "login": "Log in",
+            "areYouRegistered": "Are you not registered?",
+            "createAccount": "Create your account"
+        },
+        "ARM": {
+            "language": "ARM",
+            "title": "Մուտք գործիր քո հաշիվ",
+            "or": "կամ",
+            "email": "Էլ. հասցե",
+            "password": "Գաղտնաբառ",
+            "forgotPassword": "Մոռացե՞լ եք գաղտնաբառը",
+            "rememberMe": "Հիշել ինձ",
+            "login": "Մուտք",
+            "areYouRegistered": "Օգտատե՞ր չես",
+            "createAccount": "ստեղծիր քո հաշիվը"
+        },
+        "RUS": {
+            "language": "RUS",
+            "title": "Войти в свой аккаунт",
+            "or": "или",
+            "email": "Эл. почта",
+            "password": "Пароль",
+            "forgotPassword": "Забыли пароль?",
+            "rememberMe": "Запомни меня",
+            "login": "Вход",
+            "areYouRegistered": "Ты не зарегистрирован?",
+            "createAccount": "Создать свой аккаунт"
+        }
+    },
+    "invalidEmail": {
+        "email": "testcypress.zangakbookstore1@yandex.com"
+    },
+    "invalidPassword": {
+        "password": "TigranMetsStation2"
+    },
+    "incorrectLogin": {
+        "text": "Incorrect Login"
+    }
+}

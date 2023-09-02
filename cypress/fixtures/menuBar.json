@@ -1,0 +1,77 @@
+{
+    "barContent": {
+        "ENG": {
+            "language": "ENG",
+            "menuBarItems": [
+                "Books",
+                "Gifts",
+                "Stationery",
+                "Zangak Store",
+                "Events",
+                "Art and culture",
+                "Branches",
+                "About Us"
+            ]
+        },
+        "RUS": {
+            "language": "RUS",
+            "menuBarItems": [
+                "Книги",
+                "Подарки",
+                "Канцелярские товары",
+                "Zangak Store",
+                "Мероприятия",
+                "Искусство и культура",
+                "Филиалы",
+                "О нас"
+            ]
+        },
+        "ARM": {
+            "language": "ARM",
+            "menuBarItems": [
+                "Գրքեր",
+                "Նվերներ",
+                "Գրենական պիտույքներ",
+                "Zangak Store",
+                "Միջոցառումներ",
+                "Արվեստ և մշակույթ",
+                "Մասնաճյուղեր",
+                "Մեր մասին"
+            ]
+        }
+    },
+    "barNavigation": [
+        {
+            "name": "Books",
+            "url": "grqer"
+        },
+        {
+            "name": "Gifts",
+            "url": "gifts"
+        },
+        {
+            "name": "Stationery",
+            "url": "stationery"
+        },
+        {
+            "name": "Zangak Store",
+            "url": "zangak-store"
+        },
+        {
+            "name": "Events",
+            "url": "events"
+        },
+        {
+            "name": "Art and culture",
+            "url": "news"
+        },
+        {
+            "name": "Branches",
+            "url": "branches"
+        },
+        {
+            "name": "About Us",
+            "url": "about"
+        }
+    ]
+}

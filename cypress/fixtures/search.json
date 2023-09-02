@@ -1,0 +1,70 @@
+{
+    "elementsContent": {
+        "ENG": {
+            "language": "ENG",
+            "description": "Search by",
+            "count": "(5)",
+            "filterText": "Filter",
+            "searchText": "text",
+            "sortBy": "Sort by",
+            "sortByContent": [
+                "By sales quantity",
+                "By price (lower-high)",
+                "By price (high-low)",
+                "By year of publication (old-new)",
+                "By year of publication (new-old)"
+            ]
+        },
+        "ARM": {
+            "language": "ARM",
+            "description": "Որոնում ըստ",
+            "count": "(5)",
+            "filterText": "Ֆիլտրել",
+            "searchText": "text",
+            "sortBy": "Դասակարգել",
+            "sortByContent": [
+                "Ըստ վաճառքի քանակի",
+                "Ըստ գնի (ցածրից-բարձր)",
+                "Ըստ գնի (բարձրից-ցածր)",
+                "Ըստ հրատարակման տարեթվի (հնից-նոր)",
+                "Ըստ հրատարակման տարեթվի (նորից-հին)"
+            ]
+        },
+        "RUS": {
+            "language": "RUS",
+            "description": "Искать по",
+            "count": "(5)",
+            "filterText": "Фильтр",
+            "searchText": "text",
+            "sortBy": "Сортировать по",
+            "sortByContent": [
+                "По количеству продаж",
+                "По цене (ниже высотой)",
+                "По цене (высокой низкой)",
+                "По году издания (старое-новое)",
+                "По году издания (новое-старое)"
+            ]
+        }
+    },
+
+    "searchProducts": {
+        "case1": {
+            "language": "ARM",
+            "product": "Թումանյան",
+            "count": "98",
+            "seeMoreLabel": "Տես ավելին"
+        },
+        "case2": {
+            "language": "ENG",
+            "product": "Yuval Noah Harari",
+            "count": "22",
+            "seeMoreLabel": "See more"
+        },
+        "case3": {
+            "language": "RUS",
+            "product": "Милан Кундера",
+            "count": "39",
+            "seeMoreLabel": "Узнать больше"
+        }
+    }
+}

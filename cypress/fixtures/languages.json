@@ -1,0 +1,21 @@
+{
+    "languageOptions": [
+        "ARM",
+        "ENG",
+        "RUS"
+    ],
+    "languageURLs": {
+        "ARM": {
+            "language": "ARM",
+            "url": "https://zangakbookstore.am/"
+        },
+        "RUS": {
+            "language": "RUS",
+            "url": "https://zangakbookstore.am/ru"
+        },
+        "ENG": {
+            "language": "ENG",
+            "url": "https://zangakbookstore.am/en"
+        }
+    }
+}
